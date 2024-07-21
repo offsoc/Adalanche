@@ -32,8 +32,8 @@ require (
 	github.com/shirou/gopsutil/v3 v3.24.1
 	github.com/spf13/cobra v1.8.0
 	github.com/tinylib/msgp v1.1.9
-	golang.org/x/sys v0.17.0
-	golang.org/x/term v0.17.0
+	golang.org/x/sys v0.18.0
+	golang.org/x/term v0.18.0
 	golang.org/x/text v0.14.0
 )
 
@@ -91,8 +91,8 @@ require (
 	github.com/xo/terminfo v0.0.0-20220910002029-abceb7e1c41e // indirect
 	github.com/yusufpapurcu/wmi v1.2.3 // indirect
 	go4.org/unsafe/assume-no-moving-gc v0.0.0-20230525183740-e7c30c78aeb2 // indirect
-	golang.org/x/crypto v0.19.0 // indirect
-	golang.org/x/net v0.21.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/nullbio/null.v6 v6.0.0-20161116030900-40264a2e6b79 // indirect
